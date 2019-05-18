@@ -9,10 +9,10 @@
   
 ## **实验截图：**
 ### 主界面
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/main.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/main.png?raw=true#pic_center)
 ### SimpleAdapeter实现的效果图
   
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/SimpleAdapter.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/SimpleAdapter.png?raw=true#pic_center)
 ### 自定义布局的AlertDialog效果图 
 ![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/AlertDialog.png?raw=true#pic_center)
 ### XML定义菜单的效果图  
