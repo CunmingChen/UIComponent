@@ -14,11 +14,11 @@
   
 ![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/SimpleAdapter.png?raw=true#pic_center)
 ### 自定义布局的AlertDialog效果图 
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/AlertDialog.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/AlertDialog.png?raw=true#pic_center)
 ### XML定义菜单的效果图  
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/XMLMenu1.png?raw=true#pic_center)  
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/XMLMenu2.png?raw=true#pic_center)  
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/XMLMenu3.png?raw=true#pic_center)  
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/XMLMenu4.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/XMLMenu1.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/XMLMenu2.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/XMLMenu3.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/XMLMenu4.png?raw=true#pic_center)
 ### 上下文操作模式(ActionMode)的上下文菜单效果图
-![Alt](https://github.com/CunmingChen/UIComponent/tree/master/Graphic/ActionMode.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/UIComponent/blob/master/Graphic/ActionMode.png?raw=true#pic_center)
